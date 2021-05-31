@@ -19,7 +19,7 @@ function TestJExtensions()
     var text = "Hello World";
     // Determinates if the string is a number
     var isNumeric = text.isNumeric();
-    // Convert the string into a hash number.
+    // Hash a string.
     var hash = text.toHash();
     // Reverse the string.
     var reverseText = text.reverse();
